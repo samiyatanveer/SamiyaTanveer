@@ -51,65 +51,20 @@ Business & IT undergraduate at the **University of Punjab** with hands-on experi
 
 ---
 
-## 💼 Work Experience
-
-### 🏢 Business Developer — Greatest Marketing Agency *(Remote · 2025–Present)*
-- Identify and pursue new business opportunities to drive agency growth
-- Build and maintain client relationships and strategic partnerships
-- Develop proposals, pitch decks, and outreach strategies for prospective clients
-
-### 🎓 Teacher Assistant — Database Management *(IBIT, University of Punjab · Nov 2025–Jan 2026)*
-- Assisted students with SQL queries, ER modeling, and schema design
-- Supported lab sessions and graded database assignments
-
-### 🎓 Teacher Assistant — Programming Fundamentals *(IBIT, University of Punjab · Feb 2026–Present)*
-- Guide students through C++ programming and OOP concepts
-- Conduct lab sessions, assist with debugging, and assess coursework
-
----
-
 ## 🚀 Academic Projects
+### 🎮 Tic-Tac-Toe *(Python)*
+- Built a two-player Tic-Tac-Toe game that runs entirely in the terminal using core Python logic
+- Implemented win detection across all rows, columns, and diagonals with input validation
+- Structured clean, readable code with modular functions for game loop, player moves, and board rendering
 
 ### 🔬 SQA Automation Testing Project *(Cypress, PyTest & Selenium)*
 - Automated E2E testing with Cypress and browser automation with Selenium WebDriver using PyTest, POM, and smart waits
 - Designed test plans, executed unit and integration tests, and generated HTML reports for stakeholder review
 - Tracked bugs, documented results, and maintained structured test suites across both frameworks
 
-### 📦 Odoo Accounting System *(Software Engineering, Odoo ERP)*
-- Configured Odoo ERP modules for invoicing, payment tracking, and financial reporting
-- Applied software engineering practices including requirements analysis, system design, and documentation
-
-### 🗃️ Database Management System *(SQL-Based)*
-- Designed a normalized relational database with ER diagrams and schema
-- Wrote complex SQL queries including joins, subqueries, and stored procedures
-
-### 🌐 Web-Based Application *(HTML, CSS, JS, PHP)*
-- Built a multi-page website with structured HTML/CSS layouts and responsive design
-- Implemented JavaScript for client-side interactivity and form validation
-- Developed a PHP-based login system for server-side user authentication
-
-### 🖥️ WordPress Website Development
-- Designed and launched a complete website using WordPress CMS
-- Customized themes, plugins, and layouts for a professional user experience
-
-### 🎨 UI/UX Design Project *(Figma)*
-- Designed high-fidelity wireframes and interactive prototypes in Figma
-- Applied user-centered design principles to create intuitive digital interfaces
-- Conducted usability walkthroughs and iterated designs based on feedback
-
----
-
-## 🏆 Achievement
-
-> 🥉 **3rd Position — Lahore Board**  
-> Top academic performer at board level, reflecting consistent excellence and dedication.
-
----
-
 ## 🎓 Education
 
 **B.S. Business & IT** — University of Punjab *(2023–2027)*  
-CGPA: **3.66**
 
 ---
 
