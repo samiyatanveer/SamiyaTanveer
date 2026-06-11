@@ -28,6 +28,7 @@ Business & IT undergraduate at the **University of Punjab** with hands-on experi
 ![Excel](https://img.shields.io/badge/Excel%20Data%20Analysis-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-light?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
