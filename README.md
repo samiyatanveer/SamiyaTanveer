@@ -4,7 +4,9 @@
   <i>University of Punjab, CGPA 3.66 · Lahore, Pakistan</i>
 </p>
 <p align="center">
-  <a href="mailto:samiyatanveer01x@gmail.com"><img src="https://img.shields.io/badge/Email-samiyatanveer01x@gmail.com-red?style=flat-square&logo=gmail"/></a>
+<a href="https://mail.google.com/mail/?view=cm&to=samiyatanveer01x@gmail.com">
+  <img src="https://img.shields.io/badge/Email-samiyatanveer01x@gmail.com-red?style=flat-square&logo=gmail"/>
+</a>
   <a href="https://www.linkedin.com/in/samiya-tanveer-820ba9363/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-green?style=flat-square&logo=googlemaps"/>
 </p>
