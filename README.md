@@ -11,91 +11,110 @@
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-green?style=flat-square&logo=googlemaps"/>
 </p>
 
----
-
-## 👩‍💻 About Me
-
-Business & IT undergraduate at the **University of Punjab** (CGPA 3.66) with hands-on experience in **SQA automation**, **data analysis**, and **database engineering**. Actively progressing through an AI/ML learning path,  from Python fundamentals and Pandas/NumPy through supervised learning to **Agentic AI**. Proficient in Cypress, Selenium, PyTest, and SQL. Seeking AI/ML, SQA, or IT-focused roles.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samiyatanveer&style=flat-square&color=blueviolet" alt="profile views"/>
+</p>
 
 ---
 
-## 🛠️ Skills
+### 👩‍💻 About Me
 
-### 🤖 AI/ML & Data
+Business & IT undergraduate at the **University of Punjab** (CGPA 3.66) with hands-on experience in **SQA automation**, **data analysis**, and **database engineering**. Currently deep in a self-driven AI/ML roadmap — moved through Python fundamentals, data analysis, and classical machine learning, and now building **deep learning** foundations on the way to **NLP, Transformers, and LLM fine-tuning**. Proficient in Cypress, Selenium, PyTest, and SQL. Seeking AI/ML, SQA, or IT-focused roles.
+
+```text
+samiya.currently_learning = "Deep Learning → PyTorch → Transformers"
+samiya.long_term_goal      = "Understand & fine-tune LLMs (GPT, LLaMA) with LoRA/QLoRA"
+```
+
+---
+
+### 🛠️ Skills
+
+**🤖 AI / ML & Data**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### 🗄️ Databases & Data
+**🗄️ Databases & Data**
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database%20Design-orange?style=flat-square)
 ![ER Modeling](https://img.shields.io/badge/ER%20Modeling-blueviolet?style=flat-square)
 
-### 💻 Programming Languages
+**💻 Programming Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-lightgrey?style=flat-square)
 
-### 🧪 SQA & Testing
+**🧪 SQA & Testing**
+
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-lightgrey?style=flat-square)
 
-### ⚙️ Tools & Platforms
+**⚙️ Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo%20ERP-875A7B?style=flat-square&logo=odoo&logoColor=white)
 
 ---
 
-## 🤖 AI/ML Learning Journey
+### 🧭 AI/ML Learning Journey
 
-My structured self-driven path in AI/ML, progressing alongside my degree:
+My structured, self-driven roadmap from classical ML toward LLMs:
 
 | Stage | Topics | Status |
-|-------|--------|--------|
+|---|---|---|
 | 🐍 Python Fundamentals | Core syntax, OOP, data structures, file I/O | ✅ Done |
 | 📊 Data Analysis | Pandas, NumPy, Matplotlib, EDA, cleaning, visualization | ✅ Done |
-| 🧠 Machine Learning | Supervised learning, scikit-learn, model evaluation | 🔄 In Progress |
+| 🧠 Machine Learning | Bias-variance, regularization, loss functions, gradient descent, cross-validation, ROC/AUC, scikit-learn, Naive Bayes, KNN, SVM, XGBoost, SMOTE, PCA, KMeans | ✅ Done |
+| 🔥 Deep Learning | Neural network foundations, forward pass, backpropagation, activation functions, PyTorch | 🔄 In Progress |
+| 📝 NLP & Transformers | Word embeddings, attention, Transformer architecture | ⏳ Upcoming |
+| 🤗 HuggingFace & Fine-tuning | Pretrained models, LoRA / QLoRA fine-tuning | ⏳ Upcoming |
 | 🤖 Agentic AI | LLM-powered agents, tool use, prompt engineering | 🔍 Exploring |
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-### 📊 [Student Score Analyzer](https://github.com/samiyatanveer/student-score-analyzer) *(Python · Pandas · NumPy · Matplotlib)*
-- Performed EDA on a student dataset,  cleaned missing values, handled outliers, and computed descriptive statistics
-- Visualized score distributions, grade trends, and subject-wise performance using Matplotlib
+**🚢 [Titanic Survival Prediction](https://github.com/samiyatanveer/titanic-survival-prediction)** *(Python · scikit-learn · Pandas)*
+- Built and evaluated Logistic Regression, Decision Tree, and Random Forest classifiers on the Titanic dataset
+- Handled preprocessing, feature engineering, and model evaluation with Pipeline and GridSearchCV
+- Used StratifiedKFold cross-validation for robust performance estimates
+
+**📩 [SMS Spam Classifier](https://github.com/samiyatanveer/sms-spam-classifier)** *(Python · scikit-learn · NLTK)*
+- Built a text classification pipeline using TF-IDF vectorization and a Naive Bayes classifier
+- Covered the full NLP preprocessing flow: tokenization, cleaning, and feature extraction
+- Evaluated with precision, recall, and F1-score on real-world spam/ham SMS data
+
+**📊 [Student Score Analyzer](https://github.com/samiyatanveer/student-score-analyzer)** *(Python · Pandas · NumPy · Matplotlib)*
+- Performed EDA on a student dataset: cleaned missing values, handled outliers, computed descriptive statistics
+- Visualized score distributions, grade trends, and subject-wise performance
 - Mirrors real-world ML preprocessing pipelines: clean → analyze → visualize
 
-### 🎮 [Tic-Tac-Toe Terminal Game](https://github.com/samiyatanveer/tic-tac-toe) *(Python)*
-- Two-player terminal game with full win detection across rows, columns, and diagonals
-- Modular design | game loop, move validator, board renderer, demonstrating clean Python fundamentals
-
-### 📒 [Contact Book CLI App](https://github.com/samiyatanveer/contactbook) *(Python · JSON · os)*
-- Command-line contact manager with persistent JSON storage
-- Supports add, search, update, and delete, reinforces Python file I/O and data handling
-
-### 🔬 SQA Automation Testing Suite *(Cypress · Selenium · PyTest · POM)*
+**🔬 SQA Automation Testing Suite** *(Cypress · Selenium · PyTest · POM)*
 - Built E2E test suites using Cypress (UI) and Selenium WebDriver with PyTest (browser-level)
 - Applied Page Object Model architecture; generated HTML reports for stakeholder review
 - Designed test plans, executed unit/integration tests, and maintained structured bug documentation
 
-### 🗃️ Database Management System *(SQL · ER Modeling · Normalization)*
+**🗃️ Database Management System** *(SQL · ER Modeling · Normalization)*
 - Designed a normalized relational database (3NF) with ER diagrams and schema documentation
-- Wrote complex queries — joins, subqueries, stored procedures, for data retrieval and manipulation
+- Wrote complex queries  joins, subqueries, stored procedures for data retrieval and manipulation
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 **B.S. Business & IT** — University of Punjab *(2023–2027)*
-CGPA: 3.66 · 3rd Position — Lahore Board 
+CGPA: 3.66 · 3rd Position — Lahore Board
 
 ---
 
