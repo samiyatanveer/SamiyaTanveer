@@ -76,8 +76,8 @@ My structured, self-driven roadmap from classical ML toward LLMs:
 | 🐍 Python Fundamentals | Core syntax, OOP, data structures, file I/O | ✅ Done |
 | 📊 Data Analysis | Pandas, NumPy, Matplotlib, EDA, cleaning, visualization | ✅ Done |
 | 🧠 Machine Learning | Bias-variance, regularization, loss functions, gradient descent, cross-validation, ROC/AUC, scikit-learn, Naive Bayes, KNN, SVM, XGBoost, SMOTE, PCA, KMeans | ✅ Done |
-| 🔥 Deep Learning | Neural network foundations, forward pass, backpropagation, activation functions, PyTorch | 🔄 In Progress |
-| 📝 NLP & Transformers | Word embeddings, attention, Transformer architecture | ⏳ Upcoming |
+| 🔥 Deep Learning | Neural network foundations, forward pass, backpropagation, activation functions, PyTorch | ✅ Done |
+| 📝 NLP & Transformers | Word embeddings, attention, Transformer architecture | 🔄 In Progress |
 | 🤗 HuggingFace & Fine-tuning | Pretrained models, LoRA / QLoRA fine-tuning | ⏳ Upcoming |
 | 🤖 Agentic AI | LLM-powered agents, tool use, prompt engineering | 🔍 Exploring |
 
