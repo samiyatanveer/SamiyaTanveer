@@ -1,13 +1,21 @@
 <h1 align="center">Hi, I'm Samiya Tanveer 👋</h1>
+
 <p align="center">
-  <b>AI/ML Enthusiast · SQA Engineer · Business & IT Undergraduate</b><br/>
-  <i>University of Punjab, CGPA 3.66 · Lahore, Pakistan</i>
+  <b>🤖 Agentic AI Engineer · AI/ML Developer · RAG Systems Specialist</b><br/>
+  <i>SolaceBit AI/ML Intern · Business & IT Undergraduate, University of Punjab</i><br/>
+  <i>CGPA 3.69 · Lahore, Pakistan</i>
 </p>
+
 <p align="center">
-<a href="https://mail.google.com/mail/?view=cm&to=samiyatanveer01x@gmail.com">
-  <img src="https://img.shields.io/badge/Email-samiyatanveer01x@gmail.com-red?style=flat-square&logo=gmail"/>
-</a>
-  <a href="https://www.linkedin.com/in/samiya-tanveer-820ba9363/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:samiyatanveer01x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-samiyatanveer01x@gmail.com-red?style=flat-square&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samiya-tanveer-820ba9363/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="https://samiyatanveer.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=vercel"/>
+  </a>
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-green?style=flat-square&logo=googlemaps"/>
 </p>
 
@@ -17,107 +25,118 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-Business & IT undergraduate at the **University of Punjab** (CGPA 3.66) with hands-on experience in **SQA automation**, **data analysis**, and **database engineering**. Currently deep in a self-driven AI/ML roadmap — moved through Python fundamentals, data analysis, and classical machine learning, and now building **deep learning** foundations on the way to **NLP, Transformers, and LLM fine-tuning**. Proficient in Cypress, Selenium, PyTest, and SQL. Seeking AI/ML, SQA, or IT-focused roles.
+I'm an **AI/ML developer** building **production-grade agentic systems and RAG applications**. Currently working as an **AI/ML Intern at SolaceBit**, where I'm developing the **Agentic Website RAG Chatbot** — a full-stack Node.js/React/Ollama application with 9 phases of development, RAG orchestration, and E2E testing.
 
-```text
-samiya.currently_learning = "Deep Learning → PyTorch → Transformers"
-samiya.long_term_goal      = "Understand & fine-tune LLMs (GPT, LLaMA) with LoRA/QLoRA"
-```
+My focus: moving from "vibe coding" to **disciplined, spec-first AI-directed development**. I'm architecting **intelligent agents**, **retrieval-augmented generation systems**, and **LLM applications** designed for real-world scalability.
 
----
+## 🛠️ Technical Skills
 
-### 🛠️ Skills
-
-**🤖 AI / ML & Data**
-
+### 🤖 **AI/ML & Deep Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG-FF6B9D?style=flat-square)
+![LLM Agents](https://img.shields.io/badge/LLM%20Agents-00D9FF?style=flat-square)
+
+### 🔬 **Machine Learning & Data**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
-**🗄️ Databases & Data**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database%20Design-orange?style=flat-square)
-![ER Modeling](https://img.shields.io/badge/ER%20Modeling-blueviolet?style=flat-square)
-
-**💻 Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### 💻 **Backend & Full-Stack**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-lightgrey?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square)
 
-**🧪 SQA & Testing**
+### 🎨 **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML/CSS/JS](https://img.shields.io/badge/HTML/CSS/JS-E34C26?style=flat-square)
 
+### 🗄️ **Databases & Data Engineering**
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFA500?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-FF6B9D?style=flat-square)
+
+### 🧪 **Testing & QA**
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-lightgrey?style=flat-square)
 
-**⚙️ Tools & Platforms**
-
+### ⚙️ **DevOps & Deployment**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo%20ERP-875A7B?style=flat-square&logo=odoo&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=flat-square)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square)
 
 ---
 
-### 🧭 AI/ML Learning Journey
+## 💼 Work Experience
 
-My structured, self-driven roadmap from classical ML toward LLMs:
+### 🤖 **AI/ML Intern** — *SolaceBit* (Remote) · Jul 2026 – Present
+- Developing **Agentic Website RAG Chatbot** — full-stack RAG application with Node.js backend & React frontend
+- Implementing **9-phase development methodology**: spec → architecture → backend → frontend → testing → deployment
+- Building **intelligent retrieval pipelines** with ChromaDB + Ollama for semantic search
+- Leading **E2E test suite** (Jest, Supertest) ensuring production-grade reliability
+
+### 💼 **Business Developer** — *Greatest Marketing Agency* (Remote) · Ongoing
+- Driving business development & client outreach
+- Building professional relationships with AI/ML focused organizations
+
+---
+
+## 🎓 Education
+
+**B.S. Business & IT** — University of Punjab, Lahore *(2023–2027)*
+- **CGPA:** 3.69 / 4.00
+- **Rank:** 3rd Position (Lahore Board)
+- **Relevant Coursework:** Data Structures, Databases, OOP, Operating Systems, Software Engineering
+
+---
+
+## 📊 Learning Roadmap & Progress
 
 | Stage | Topics | Status |
-|---|---|---|
-| 🐍 Python Fundamentals | Core syntax, OOP, data structures, file I/O | ✅ Done |
-| 📊 Data Analysis | Pandas, NumPy, Matplotlib, EDA, cleaning, visualization | ✅ Done |
-| 🧠 Machine Learning | Bias-variance, regularization, loss functions, gradient descent, cross-validation, ROC/AUC, scikit-learn, Naive Bayes, KNN, SVM, XGBoost, SMOTE, PCA, KMeans | ✅ Done |
-| 🔥 Deep Learning | Neural network foundations, forward pass, backpropagation, activation functions, PyTorch | ✅ Done |
-| 📝 NLP & Transformers | Word embeddings, attention, Transformer architecture |✅ Done |
-| 🤗 HuggingFace & Fine-tuning | Pretrained models, LoRA / QLoRA fine-tuning |✅ Done |
-| 🤖 Agentic AI | LLM-powered agents, tool use, prompt engineering | 🔄 In Progress |
+|-------|--------|--------|
+| 🐍 **Python Fundamentals** | Syntax, OOP, data structures, file I/O | ✅ Complete |
+| 📊 **Data Analysis** | Pandas, NumPy, Matplotlib, EDA, visualization | ✅ Complete |
+| 🧠 **Classical ML** | Regression, classification, tree models, SVM, ensemble methods | ✅ Complete |
+| 🔥 **Deep Learning** | Neural networks, backprop, PyTorch, CNNs, RNNs | ✅ Complete |
+| 📝 **NLP & Transformers** | Word embeddings, attention, BERT, GPT, fine-tuning | ✅ Complete |
+| 🤗 **LLMs & Fine-tuning** | HuggingFace, LoRA/QLoRA, prompt engineering | ✅ Complete |
+| 🤖 **Agentic AI & RAG** | Tool use, agents, retrieval-augmented generation, multi-agent systems | 🔄 **In Progress** |
 
 ---
 
-### 🚀 Projects
+## 🎯 Key Achievements
 
-**🚢 [Titanic Survival Prediction](https://github.com/samiyatanveer/titanic-survival-prediction)** *(Python · scikit-learn · Pandas)*
-- Built and evaluated Logistic Regression, Decision Tree, and Random Forest classifiers on the Titanic dataset
-- Handled preprocessing, feature engineering, and model evaluation with Pipeline and GridSearchCV
-- Used StratifiedKFold cross-validation for robust performance estimates
-
-**📩 [SMS Spam Classifier](https://github.com/samiyatanveer/sms-spam-classifier)** *(Python · scikit-learn · NLTK)*
-- Built a text classification pipeline using TF-IDF vectorization and a Naive Bayes classifier
-- Covered the full NLP preprocessing flow: tokenization, cleaning, and feature extraction
-- Evaluated with precision, recall, and F1-score on real-world spam/ham SMS data
-
-**📊 [Student Score Analyzer](https://github.com/samiyatanveer/student-score-analyzer)** *(Python · Pandas · NumPy · Matplotlib)*
-- Performed EDA on a student dataset: cleaned missing values, handled outliers, computed descriptive statistics
-- Visualized score distributions, grade trends, and subject-wise performance
-- Mirrors real-world ML preprocessing pipelines: clean → analyze → visualize
-
-**🔬 SQA Automation Testing Suite** *(Cypress · Selenium · PyTest · POM)*
-- Built E2E test suites using Cypress (UI) and Selenium WebDriver with PyTest (browser-level)
-- Applied Page Object Model architecture; generated HTML reports for stakeholder review
-- Designed test plans, executed unit/integration tests, and maintained structured bug documentation
-
-**🗃️ Database Management System** *(SQL · ER Modeling · Normalization)*
-- Designed a normalized relational database (3NF) with ER diagrams and schema documentation
-- Wrote complex queries  joins, subqueries, stored procedures for data retrieval and manipulation
+✅ **Completed 9-phase RAG project** — Full software development lifecycle from spec to production  
+✅ **Deployed 3+ production systems** — Live on Streamlit, Render, and private infrastructure  
+✅ **Built multilingual NLP systems** — 50+ language support with zero-shot cross-lingual retrieval  
+✅ **98.4% accuracy on SMS classification** — Production-grade text classification pipeline  
+✅ **Led TAship mentoring** — Guided 50+ students through foundational CS  
+✅ **Mastered fullstack development** — React/Node.js to FastAPI/Streamlit  
+✅ **Professional deployment expertise** — Docker, CI/CD, cloud platforms  
 
 ---
 
-### 🎓 Education
+## 🔗 Links & Resources
 
-**B.S. Business & IT** — University of Punjab *(2023–2027)*
-CGPA: 3.66 · 3rd Position — Lahore Board
-
----
-
-<p align="center">
-  📧 samiyatanveer01x@gmail.com &nbsp;·&nbsp;📍 Lahore, Punjab, Pakistan
-</p>
+- **Portfolio:** [samiyatanveer.vercel.app](https://samiyatanveer.vercel.app)
+- **GitHub:** [github.com/samiyatanveer](https://github.com/samiyatanveer)
+- **LinkedIn:** [linkedin.com/in/samiya-tanveer-820ba9363](https://www.linkedin.com/in/samiya-tanveer-820ba9363/)
+- **Live Demo (MediNexa):** [https://medi-nexa-five.vercel.app/](https://medi-nexa-five.vercel.app/)
+- **Email:** samiyatanveer01x@gmail.com
